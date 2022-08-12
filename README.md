@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Krutik Shah.
+- 💼 I am lead full stack developer at vadodara,Gujarat based company.
 - 👀 I’m interested in coding, cloud and exploring new places...
-- 📫 Reach me @krutikshah24@gmail.com..
+- 📫 Reach me @krutikshah24@gmail.com.
+
 
 <!---
 krutikshah24/krutikshah24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
